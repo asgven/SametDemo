@@ -11,3 +11,4 @@ git clone https://github.com/aleksandrmaiorov/SametDemo.git
 Feel free to use this repo.
 
 
+test
