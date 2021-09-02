@@ -10,4 +10,7 @@ git clone https://github.com/aleksandrmaiorov/SametDemo.git
 
 Feel free to use this repo.
 
-ahmetten sevgiler
+feature 1 tamamlanmistir
+ ```java
+test 
+ ```
